@@ -1,7 +1,7 @@
 Texto de reflecções sobre o curso Udacity - Git e GitHub
 
 1-How did viewing a diff between two versions of a file help you see the bug that was introduced?
-- comando diff indica as diferenças entre a versão que funcionava e a nova que tem bug.
+- comando diff compara duas versões do arquivo, pode ser as escolhidas como também da ultima para a area de preparação.
 
 2-How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 - talvez, porque se aprende com os erros, ou se pode retomar um caminho abandonado por alguma razão.
